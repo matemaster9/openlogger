@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  cs.matemaster.openlogger.spring.boot.autoconfigure.OpenLoggerAutoConfiguration
